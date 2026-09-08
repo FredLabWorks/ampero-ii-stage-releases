@@ -11,11 +11,14 @@ very low contrast — you cannot read a block's content before pressing it.
 
 ## What this mod fixes
 
-- **Readability of tiles and inactive labels** (bitmaps + tint)
-- **Footswitch LEDs dimmed at rest** (48 % of stock brightness)
+- **Readability of tiles and inactive labels** (frame contrast + label tint)
+- **Effect labels coloured by category** instead of all white (Lock + Stomp view)
+- **Larger patch title font** (Lock view)
+- **Footswitch LEDs dimmed at rest** (48 % of stock brightness, hue preserved)
+- **The Delay footswitch LED turns pink** (was orange, too close to drive effects)
+- **The scene is shown in Patch + Lock mode** ("S1"…"S5")
 - **Bank+/Bank− load patch 1** of the neighbouring bank
 - **Wait mode opens on the current bank**
-- **The scene is shown in Patch + Lock mode** ("S1"…"S5")
 
 Full detail, checksums and procedure: see the release note attached to each
 publication, under the **Releases** tab.
@@ -40,7 +43,7 @@ this repository's issues, or the associated Facebook group.
 ## Support
 
 This is free and stays free. If it's useful to you and you'd like to chip in:
-**[ko-fi.com/fredlabreleases](https://ko-fi.com/fredlabreleases)** — entirely
+**[ko-fi.com/fredlabworks](https://ko-fi.com/fredlabworks)** — entirely
 optional, and it changes nothing about access.
 
 ## What is not in this repository
