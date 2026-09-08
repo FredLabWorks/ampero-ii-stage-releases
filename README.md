@@ -25,12 +25,17 @@ publication, under the **Releases** tab.
 
 ## Installation
 
-1. Download the patcher from this repository's **[Releases](../../releases)** tab
-2. Place it in the same folder as the official Hotone V1.7.0 firmware
+1. Download the patcher `.zip` from this repository's **[Releases](../../releases)** tab
+2. Extract it — keep the `.exe` and the `_internal` folder together
+3. Place the official Hotone V1.7.0 firmware in that same folder
    (`.bin` or `.zip`, exactly as downloaded)
-3. Run the patcher — it checks the firmware's digest before writing anything,
+4. Run the patcher — it checks the firmware's digest before writing anything,
    and refuses if it does not recognise the exact right version
-4. Flash the resulting file with the usual Hotone update tool
+5. Flash the resulting file with the usual Hotone update tool
+
+**Antivirus note**: some tools flag freshly-built, unsigned executables —
+this is a common false positive with this kind of packaging, not a sign of
+anything wrong. Check the checksum published with each release if in doubt.
 
 **If something goes wrong**: unplug the power supply, reflash the official
 firmware.
