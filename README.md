@@ -1,7 +1,7 @@
 # Ampero II Stage — firmware mod (unofficial)
 
-> ⚠️ **Personal project, unofficial, not affiliated with Hotone.** This modified
-> firmware is provided with no warranty of any kind. You install it at your
+> ⚠️ **Personal project, unofficial, not affiliated with Hotone.** This tool
+>  is provided with no warranty of any kind. You install it at your
 > own risk. Always keep a copy of the official V1.7.0 firmware to go back to.
 
 ## The problem
